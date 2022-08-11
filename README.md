@@ -2,14 +2,14 @@
 
 Introspection of codebase, ui powered by [rich](https://github.com/Textualize/rich).
 
-Features:
+TODO:
 
-- loc
-- file tree
-- interfaces
-- classes
-- methods
-- globals
+- [ ]loc
+- [ ]file tree
+- [ ]interfaces
+- [ ]classes
+- [ ]methods
+- [ ]globals
 
 ## Installation
 
