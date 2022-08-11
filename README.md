@@ -4,12 +4,12 @@ Introspection of codebase, ui powered by [rich](https://github.com/Textualize/ri
 
 TODO:
 
-- [ ]loc
-- [ ]file tree
-- [ ]interfaces
-- [ ]classes
-- [x]methods
-- [ ]globals
+* [ ]loc
+* [ ]file tree
+* [ ]interfaces
+* [ ]classes
+* [x]methods
+* [ ]globals
 
 ## Installation
 
